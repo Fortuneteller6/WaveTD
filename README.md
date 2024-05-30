@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/Building-Done-green.svg?style=flat-square)](https://github.com/Fortuneteller6/WaveTD) ![](https://img.shields.io/badge/Language-Python-blue.svg?style=flat-square) [![](https://img.shields.io/badge/License-MIT-purple.svg?style=flat-square)](./LICENSE)
 
 > [Paper Link]()  
-> Authors: Teng Ma, Kuanhong Cheng, Tingting Chai, Yubo Wu, Haiyan Jin and Junhuai Li. <br/>
+> Authors: Teng Ma, Kuanhong Cheng, Tingting Chai, Yubo Wu, Haiyan Jin, Junhuai Li and Dong Zhao. <br/>
 > The code and model weights will be made public after the paper is accepted. Thanks for your attention!
 
 <hr/>
