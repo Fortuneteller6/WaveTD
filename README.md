@@ -28,11 +28,11 @@ python train.py --base_size 256 --crop_size 256 --epochs 500 --dataset IRSTD-1K 
 ```
 
 ```python
-python train.py --base_size 256 --crop_size 256 --epochs 1500 --dataset IRSTD-1K --split_method 80_20 --model WaveTD --deep_supervision True --train_batch_size 4 --test_batch_size 4 --mode TXT
+python train.py --base_size 256 --crop_size 256 --epochs 1500 --dataset NUAA-SIRST --split_method 80_20 --model WaveTD --deep_supervision True --train_batch_size 4 --test_batch_size 4 --mode TXT
 ```
 
 ```python
-python train.py --base_size 256 --crop_size 256 --epochs 1500 --dataset IRSTD-1K --split_method 80_20 --model WaveTD --deep_supervision True --train_batch_size 8 --test_batch_size 8 --mode TXT
+python train.py --base_size 256 --crop_size 256 --epochs 1500 --dataset NUDT-SIRST --split_method 80_20 --model WaveTD --deep_supervision True --train_batch_size 8 --test_batch_size 8 --mode TXT
 ```
 
 ### Commands for Testing and visulization
