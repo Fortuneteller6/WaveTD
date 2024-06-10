@@ -35,7 +35,7 @@ python train.py --base_size 256 --crop_size 256 --epochs 1500 --dataset NUAA-SIR
 python train.py --base_size 256 --crop_size 256 --epochs 1500 --dataset NUDT-SIRST --split_method 80_20 --model WaveTD --deep_supervision True --train_batch_size 8 --test_batch_size 8 --mode TXT
 ```
 
-### Commands for Testing and visulization
+### Commands for Testing and Visulization
 
 - For both testing and visulization of different dataset, you just need to change the model weights and the dataset name.
 
