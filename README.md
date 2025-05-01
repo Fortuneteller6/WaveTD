@@ -4,7 +4,7 @@
 
 [![](https://img.shields.io/badge/Building-Done-green.svg?style=flat-square)](https://github.com/Fortuneteller6/WaveTD) ![](https://img.shields.io/badge/Language-Python-blue.svg?style=flat-square) [![](https://img.shields.io/badge/License-MIT-purple.svg?style=flat-square)](./LICENSE)
 
-> [Paper Link]()  
+> [Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S1350449525001434)  
 > Authors: Teng Ma, Kuanhong Cheng, Tingting Chai, Yubo Wu, and Huixin Zhou. <br/>
 > The code and model weights will be made public after the paper is accepted. Thanks for your attention!
 
@@ -53,9 +53,9 @@ python visulization.py --base_size 256 --crop_size 256 --st_model IRSTD-1K_WaveT
 
 | Methods |    Data    |   Pd   |  Fa  |  IoU  | F1_Score |  Download   |
 | :-----: | :--------: | :----: | :--: | :---: | :------: | :---------: |
-| WaveTD  |  IRSTD-1K  | 91.16  | 5.54 | 69.86 |  82.25   | [Weights]() |
-| WaveTD  | NUAA-SIRST | 100.00 | 1.95 | 79.32 |  88.47   | [Weights]() |
-| WaveTD  | NUDT-SIRST | 99.30  | 1.42 | 93.30 |  96.53   | [Weights]() |
+| WaveTD  |  IRSTD-1K  | 91.16  | 5.54 | 69.86 |  82.25   | [Weights](https://drive.google.com/drive/folders/11lI_zlJYjoNFFxBHcGx2Jvx36Edfzf-W?usp=sharing) |
+| WaveTD  | NUAA-SIRST | 100.00 | 1.95 | 79.32 |  88.47   | [Weights](https://drive.google.com/drive/folders/17k_ldUs2EjCA9Jt7Sf2eq3ZGW2tk4rA9?usp=sharing) |
+| WaveTD  | NUDT-SIRST | 99.30  | 1.42 | 93.30 |  96.53   | [Weights](https://drive.google.com/drive/folders/1yjG3HEDzVSuEoSCFdY0HAJjfHwHh2nZo?usp=sharing) |
 
 <hr/>
 
@@ -68,7 +68,15 @@ The code of this paper is highly borrowed from [DNANet](https://github.com/YeRen
 If you find the code helpful in your resarch or work, please cite this paper as following.
 
 ```
-
+@article{WaveTD,
+title = {An Wavelet Steered network for efficient infrared small target detection},
+journal = {Infrared Physics & Technology},
+volume = {148},
+pages = {105850},
+year = {2025},
+issn = {1350-4495},
+author = {Teng Ma and Kuanhong Cheng and Tingting Chai and Yubo Wu and Huixin Zhou}
+}
 ```
 
 ### Contact
