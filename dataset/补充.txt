@@ -1,0 +1,2 @@
+1. 下载数据集后会得到images和masks文件夹，将每一个数据集放在对应的不同文件夹下。
+2. 在每一个文件夹下同步创建value_result和visulization_result文件夹用于放置实验数据和可视化效果图。

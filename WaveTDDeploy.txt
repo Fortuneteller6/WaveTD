@@ -1,0 +1,12 @@
+IRSTD-1K：
+Train:
+python train.py --base_size 256 --crop_size 256 --epochs 500 --dataset IRSTD-1K --split_method 80_20 --model WaveTD --deep_supervision True --train_batch_size 8 --test_batch_size 8 --mode TXT
+
+
+Test:
+
+python test.py --base_size 256 --crop_size 256 --st_model IRSTD-1K_WaveTD_05_05_2024_13_04_42_wDS --model_dir IRSTD-1K_WaveTD_05_05_2024_13_04_42_wDS/mIoU__WaveTD_IRSTD-1K_epoch.pth.tar --dataset IRSTD-1K --split_method 80_20 --model WaveTD --deep_supervision True --test_batch_size 1 --mode TXT
+
+
+Visulize your predicts:
+python visulization.py --base_size 256 --crop_size 256 --st_model IRSTD-1K_WaveTD_05_05_2024_13_04_42_wDS --model_dir IRSTD-1K_WaveTD_05_05_2024_13_04_42_wDS/mIoU__WaveTD_IRSTD-1K_epoch.pth.tar --dataset IRSTD-1K --split_method 80_20 --model WaveTD --deep_supervision True --test_batch_size 1 --mode TXT 
