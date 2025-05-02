@@ -15,7 +15,7 @@
 - IRSTD-1K dataset is available at [IRSTD-1K](https://github.com/RuiZhang97/ISNet).
 - NUAA-SIRST dataset is available at [NUAA-SIRST](https://github.com/YimianDai/sirst).
 - NUDT-SIRST dataset is available at [NUDT-SIRST](https://github.com/YeRen123455/Infrared-Small-Target-Detection).
-- We also prepare the txt file for dividing dataset and three datasets, which can be downloaded from [Google Drive]().
+- We also prepare the txt file for dividing dataset and three datasets, which can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1bCbrS5B2BWyUjK2Ic0nyreu4wZ9omgpY?lfhs=2).
 
 <hr/>
 
@@ -69,13 +69,13 @@ If you find the code helpful in your resarch or work, please cite this paper as 
 
 ```
 @article{WaveTD,
-title = {An Wavelet Steered network for efficient infrared small target detection},
-journal = {Infrared Physics & Technology},
-volume = {148},
-pages = {105850},
-year = {2025},
-issn = {1350-4495},
-author = {Teng Ma and Kuanhong Cheng and Tingting Chai and Yubo Wu and Huixin Zhou}
+  title = {An Wavelet Steered network for efficient infrared small target detection},
+  journal = {Infrared Physics & Technology},
+  volume = {148},
+  pages = {105850},
+  year = {2025},
+  issn = {1350-4495},
+  author = {Teng Ma and Kuanhong Cheng and Tingting Chai and Yubo Wu and Huixin Zhou}
 }
 ```
 
