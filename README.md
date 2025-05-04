@@ -69,14 +69,39 @@ If you find the code helpful in your resarch or work, please cite this paper as 
 
 ```
 @article{WaveTD,
-  title = {An Wavelet Steered network for efficient infrared small target detection},
-  journal = {Infrared Physics & Technology},
+  title={An Wavelet Steered network for efficient infrared small target detection},
+  author={Ma, Teng and Cheng, Kuanhong and Chai, Tingting and Wu, Yubo and Zhou, Huixin},
+  journal={Infrared Physics \& Technology},
   volume = {148},
-  pages = {105850},
-  year = {2025},
-  issn = {1350-4495},
-  author = {Teng Ma and Kuanhong Cheng and Tingting Chai and Yubo Wu and Huixin Zhou}
+  pages={105850},
+  year={2025},
+  publisher={Elsevier}
 }
+```
+
+Should the findings presented in this study prove valuable to your research endeavors, we would like to highlight that additional IRSTD-related work conducted by our team may also offer relevant insights for your consideration.
+
+```
+@article{MDCENet,
+  title={Mdcenet: Multi-dimensional cross-enhanced network for infrared small target detection},
+  author={Ma, Teng and Cheng, Kuanhong and Chai, Tingting and Prasad, Shitala and Zhao, Dong and Li, Junhuai and Zhou, Huixin},
+  journal={Infrared Physics \& Technology},
+  volume={141},
+  pages={105475},
+  year={2024},
+  publisher={Elsevier}
+}
+
+@article{HFMNet,
+  title={A Lightweight Feature Enhancement Model for Infrared Small Target Detection}, 
+  author={Cheng, Kuanhong and Ma, Teng and Fei, Rong and Li, Junhuai},
+  journal={IEEE Sensors Journal}, 
+  year={2025},
+  volume={25},
+  number={9},
+  pages={15224-15234}
+}
+
 ```
 
 ### Contact
