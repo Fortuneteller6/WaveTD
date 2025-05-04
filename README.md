@@ -101,7 +101,6 @@ Should the findings presented in this study prove valuable to your research ende
   number={9},
   pages={15224-15234}
 }
-
 ```
 
 ### Contact
