@@ -1,14 +1,15 @@
-### 📖 An Wavelet Steered Network for Efficient Infrared Small Target Detection
+<div id="top" align="center">
+
+### An Wavelet Steered Network for Efficient Infrared Small Target Detection
+
+Teng Ma, Kuanhong Cheng, Tingting Chai, Yubo Wu, and Huixin Zhou </br>
+
+[![ISJ](https://img.shields.io/badge/Elsevier-2025.105850-white.svg?style=flat-square&logo=elsevier&logoSize=auto&logoColor=white&labelColor=grey&color=blue)](https://doi.org/10.1016/j.infrared.2025.105850)
+[![ISJ](https://img.shields.io/badge/Language-Python-white.svg?style=flat-square&logo=python&logoSize=auto&logoColor=white&labelColor=grey&color=b31b1b)](https://www.python.org)
 
 <hr/>
 
-[![](https://img.shields.io/badge/Building-Done-green.svg?style=flat-square)](https://github.com/Fortuneteller6/WaveTD) ![](https://img.shields.io/badge/Language-Python-blue.svg?style=flat-square) [![](https://img.shields.io/badge/License-MIT-purple.svg?style=flat-square)](./LICENSE)
-
-> [Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S1350449525001434)  
-> Authors: Teng Ma, Kuanhong Cheng, Tingting Chai, Yubo Wu, and Huixin Zhou. <br/>
-> The code and model weights will be made public after the paper is accepted. Thanks for your attention!
-
-<hr/>
+</div>
 
 ### Datasets Prepare
 
