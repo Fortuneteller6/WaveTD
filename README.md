@@ -101,6 +101,15 @@ If the above article has reference value for your work, our team's other IRSTD w
   number={9},
   pages={15224-15234}
 }
+
+@article{DFAwareNet,
+  title = {State Space Model with dynamic frequency cue for infrared small target detection},
+  author = {Kuanhong Cheng and Teng Ma and Yubo Wu and Yachao Wei},
+  journal = {Infrared Physics \& Technology},
+  volume = {152},
+  pages = {106268},
+  year = {2026},
+  publisher={Elsevier}
 ```
 
 ### Contact
